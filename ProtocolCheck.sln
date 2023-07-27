@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtocolCheck", "ProtocolCheck.csproj", "{034E3136-A751-44B2-B4BB-8D9B1165220A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{034E3136-A751-44B2-B4BB-8D9B1165220A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034E3136-A751-44B2-B4BB-8D9B1165220A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034E3136-A751-44B2-B4BB-8D9B1165220A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034E3136-A751-44B2-B4BB-8D9B1165220A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B18721EA-DFA3-49A4-9BD4-3694DB5B4E2F}
+	EndGlobalSection
+EndGlobal
